@@ -1,11 +1,9 @@
 <template>
-
   <header class="py-4 border-b">
     <nav class="flex container items-center">
-
-      <!--Making "NuxtCipes" into a NuxtLink that can bring us to the "IndexPage"(home) --- -->      
+      <!--Making "NuxtCipes" into a NuxtLink that can bring us to the "IndexPage"(home) --- -->
       <NuxtLink to="/" class="flex gap-1 items-center">
-        <span class="text-3xl font-bold">Nuxtcipes</span>
+        <span class="text-3xl font-bold">WarmBites</span>
       </NuxtLink>
       <!-- ------------------------------------------------------------------- -->
 
@@ -19,9 +17,7 @@
       </ul>
     </nav>
   </header>
+</template>
+2
 
-</template>2
-  
-<script setup lang="ts">
-
-</script>
+<script setup lang="ts"></script>
