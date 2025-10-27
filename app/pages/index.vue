@@ -25,7 +25,7 @@ const { data, error } = await useFetch<RecipeResponse>(
             sizes="xs:100%vw sm:667vw"
             format="webp"
             densities="x1"
-            src="/nuxt-course-hero.png"
+            src="/hero.png"
             alt=""
           />
         </div>
